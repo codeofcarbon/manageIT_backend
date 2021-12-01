@@ -28,7 +28,7 @@ solved, and above all, it allowed us to learn more about working in the gitflow 
 ## How to start
 
 ```
-git clone https://github.com/igor-on/manageit-demo.git
+git clone https://github.com/CodeOfCarbon/manageIT_backend.git
 ```
 
 ### After you clone repository
