@@ -1,14 +1,14 @@
-# ManageIT App
+# ManageIT
 
-Jira alike app created with Spring Boot
+A project management tool that supports the agile methodology (modeled on Jira).
 
-## TABLE OF CONTENTS
+## Table of contents
 
-* [For what](#for-what-?)
+* [For what?](#for-what)
 * [Technologies](#technologies)
 * [How to start](#how-to-start)
 
-## For what ?
+## For what?
 
 It is a group graduate project carried out at the final stage of the SDA course. Working on a group project, and thus
 the opportunity to work in a team while creating the application allowed us to take a broader look at the problems being
@@ -33,8 +33,9 @@ git clone https://github.com/CodeOfCarbon/manageIT_backend.git
 
 ### After you clone repository
 
-* You need to create the appropriate tables in postgreSQL database with *database_preparation.sql*(./src/main/resources)
-  and add credentials in *application.properties* file
+You need to create the appropriate tables in database with help of 
+*database_preparation.sql* (./src/main/resources)
+and add credentials in *application.properties* file
 
 ### Once you have prepared database
 
