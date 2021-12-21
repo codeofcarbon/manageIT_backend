@@ -9,10 +9,13 @@ A project management tool that supports the agile methodology (modeled on Jira).
 * [How to start](#how-to-start)
 
 ## Overview
+SDA course final project - a program modeled on the Jira management tool, supporting agile work methodology. 
+
 
 It is a group graduate project carried out at the final stage of the SDA course. Working on a group project, and thus
-the opportunity to work in a team while creating the application allowed us to take a broader look at the problems being
-solved, and above all, it allowed us to learn more about working in the gitflow system.
+the opportunity to work in a team while creating the application allowed us to take a broader look at the problems being solved, 
+and above all, it allowed us to learn more about working in the gitflow system. 
+The project is based on MVC architectural design pattern and implements a REST web service structure divided into the back and front-end parts.
 
 ## Technologies
 
